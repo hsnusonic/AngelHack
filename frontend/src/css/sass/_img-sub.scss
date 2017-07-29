@@ -1,0 +1,251 @@
+/*Payment*/
+.img-cash {
+	width: 46px;
+	height: 29px;
+}
+.img-ftc {
+	width: 41px;
+	height: 26px;
+}
+.img-bonus {
+	width: 40px;
+	height: 40px;
+}
+.img-package {
+	width: 40px;
+	height: 37px;
+}
+.img-payeasy {
+	width: 40px;
+	height: 40px;
+}
+.img-credit {
+	width: 37px;
+	height: 26px;
+}
+.img-bank {
+	width: 31px;
+	height: 40px;
+}
+.img-coupon {
+	width: 25px;
+	height: 40px;
+}
+
+
+/*Member Center*/
+.img-ezmber-signout {
+	width: 17.5px;
+	height: 14.3px;
+}
+
+/*Personal Data*/
+.img-ezmber-mber {
+	width: 50px;
+	height: 50px;
+}
+
+.img-ezmber-tick, .img-ezmber-cross {
+	width: 21px;
+	height: 21px;
+}
+
+/*Payment Setting*/
+.img-ezmber-setting {
+	width: 45px;
+	height: 45px;
+}
+
+.img-ezmber-drop {
+	width: 12px;
+	height: 9px;
+}
+
+.img-ezmber-dark-drop {
+	width: 10px;
+	height: 6.2px;
+}
+
+.img-ezmber-female, .img-ezmber-male {
+	width: 14px;
+	height: 16px;
+}
+
+/*Point History*/
+.img-ezmber-gift {
+	width: 52px;
+	height: 46px;
+}
+
+.img-ezmber-to {
+	width: 13px;
+	height: 13px;
+}
+
+.img-ezmber-pink-plus, .img-ezmber-gray-plus, .img-ezmber-minus {
+	width: 18px;
+	height: 18px;
+}
+
+/*Voucher History*/
+.img-ezmber-ticket {
+	width: 50px;
+	height: 40px;
+}
+
+.img-ezmber-pink-right {
+	width: 6px;
+	height: 10px;
+}
+
+.img-ezmber-clock {
+	width: 12px;
+	height: 12px;
+}
+
+/*Booking History*/
+
+.img-ezmber-film {
+	width: 38px;
+	height: 45px;
+}
+
+.img-ezmber-empty-poster {
+	width: 53px;
+	height: 45px;
+}
+
+.img-ezmber-board {
+	width: 49px;
+	height: 45px;
+}
+
+.img-ezmber-light-ticket {
+	width: 50px;
+	height: 40px;
+}
+
+.img-ezmber-man {
+	width: 20px;
+	height: 53px;
+}
+
+.img-ezmber-chair {
+	width: 50px;
+	height: 45px;
+}
+
+.img-ezmber-money {
+	width: 50px;
+	height: 50px;
+}
+
+.img-ezmber-cancel {
+	width: 50px;
+	height: 50px;
+}
+
+.img-ezmber-white-stamp, .img-ezmber-pink-stamp {
+	width: 75px;
+	height: 75px;
+}
+
+.img-ezmber-empty-list {
+	width: 69px;
+	height: 101px;
+}
+
+/*Paginator*/
+.img-ezmber-active-backward, .img-ezmber-active-forward, .img-ezmber-disabled-backward, .img-ezmber-disabled-forward {
+	width: 10px;
+	height: 10px;
+}
+
+.img-ezmber-active-left, .img-ezmber-active-right, .img-ezmber-disabled-left, .img-ezmber-disabled-right {
+	width: 6px;
+	height: 10px;
+}
+
+.img-ezmber-name {
+	width: 25px;
+	height: 25px;
+}
+
+.img-ezmber-phone {
+	width: 25px;
+	height: 25px;
+}
+
+.img-ezmber-email {
+	width: 25px;
+	height: 25px;
+}
+
+.img-ezmber-open {
+	width: 12px;
+	height: 12px;
+}
+
+/*Booking*/
+
+.img-book-location {
+	width: 12px;
+	height: 16px;
+}
+
+.img-book-date-left, .img-book-date-left-disabled, .img-book-date-right, .img-book-date-right-disabled {
+	width: 16px;
+	height: 30px;
+}
+
+.img-book-movie-left, .img-book-movie-left-disabled, .img-book-movie-right, .img-book-movie-right-disabled {
+	width: 39px;
+	height: 63px;
+}
+
+/*ezding member center mobile img*/
+@media screen and (max-width: 600px) {
+	.img-ezmber-mber {
+		width: 45px;
+		height: 45px;
+	}
+	.img-ezmber-setting {
+		width: 50px;
+		height: 50px;
+	}
+	.img-ezmber-gift {
+		width: 57px;
+		height: 50px;
+	}
+	.img-ezmber-ticket {
+		width: 60px;
+		height: 48px;
+	}
+	.img-ezmber-film {
+		width: 42px;
+		height: 50px;
+	}
+	.img-ezmber-empty-list {
+		width: 48px;
+		height: 64px;
+	}
+	.img-ezmber-empty-poster {
+		width: 35px;
+		height: 30px;
+	}
+}
+
+/*booking mobile img*/
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+	.img-book-movie-left, .img-book-movie-left-disabled, .img-book-movie-right, .img-book-movie-right-disabled {
+		width: 31px;
+		height: 50px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.img-book-movie-left, .img-book-movie-left-disabled, .img-book-movie-right, .img-book-movie-right-disabled {
+		width: 13px;
+		height: 21px;
+	}
+}
